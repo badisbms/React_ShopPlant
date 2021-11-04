@@ -1,0 +1,23 @@
+.App {
+
+    display: grid;
+    grid-template-columns: .5fr 2fr;
+
+}
+
+.lmj-banner {
+    grid-column: 1 / span 2; ;
+    grid-row: 1;
+}
+
+.lmj-cart {
+    grid-column: 1 ;
+    grid-row: 2 / 5;
+    
+}
+
+.lmj-footer {
+    grid-column: 1 / -1;
+}
+
+

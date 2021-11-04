@@ -1,0 +1,20 @@
+.lmj-plant-list {
+	list-style: none;
+	display: flex;
+	padding: 20px;
+	flex-wrap: wrap;
+
+	
+}
+
+.addCartButton {
+    position: relative;
+	top: -85px;
+    right: -182px;
+	background-color: #f53861;
+	border-radius: 20px;
+	border: none;
+	padding: 10px;
+	color: white;
+	font-family: Poppins;
+}

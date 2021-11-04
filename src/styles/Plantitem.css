@@ -1,0 +1,36 @@
+.lmj-plant-item-cover {
+	height: 220px;
+	width: 220px;
+	border-radius: 20px;
+}
+
+.lmj-plant-item {
+	margin: 35px;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	flex-direction: column;
+	text-transform: capitalize;
+	position: relative;
+}
+
+.CareScale{
+	position: relative;
+	width: 200px;
+}
+
+
+.addCartButton:hover {
+	border: 1px solid white;
+}
+
+
+.plant-price {
+	position: absolute;
+	border-radius: 20px 10px 20px 0px;
+	background-color: rgb(35, 207, 35);
+	padding: 10px;
+	color: white;
+	top: 0;
+	right: 0;
+}
